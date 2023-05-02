@@ -1,0 +1,147 @@
+
+body{
+    height: 2600px;
+    overflow-x: hidden;
+}
+.navbar{
+    display: flex;
+    list-style: none;
+    justify-content: space-between;
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 70px;
+}
+.setA{
+    margin-left: 100PX;
+    margin-top: 50px;
+    background-color:purple;
+    border: 100px;
+  
+   
+}
+.img1{
+    margin-left: 500px;
+    margin-top: -100px;
+    background-color: purple;
+}
+.btn1{
+    color: white;
+    background-color: brown;
+    margin-left: 100px;
+}
+.h1a{
+    color: white;
+    margin-left: 100px;
+}
+.words{
+    margin-left: 600px;
+}
+.word3{
+    margin-left: 100px;
+    margin-top: -35px;
+}
+.img2{
+    margin-left: 200px;
+    margin-top: 70px;
+}
+
+.img3{
+    margin-left: 450px;
+    margin-top: -330px;
+}
+.img4{
+    margin-left: 720px;
+    margin-top: -330px;
+}
+.img5{
+    margin-left: 950px;
+    margin-top: -370px;
+}
+.btn2{
+    margin-left: 500px;
+    margin-top: 10px;
+    height: 50px;
+    width: 170px;
+    color: white;
+    background-color:palevioletred;
+}
+.img6{
+    margin-left: 200px;
+    margin-top: 50px;
+    height: 300px;
+}
+.words2{
+    margin-left: 200px;
+    margin-top: -150px;
+    color: white;
+}
+.btn4{
+    margin-left: 210px;
+    color: white;
+    background-color: palevioletred;
+}
+.partyshoe{
+margin-left: 440px;
+margin-top: -250px;
+}
+
+
+.words3{
+    margin-top: -80px;
+}
+.btn7{
+    color: white;
+    background-color: palevioletred;
+}
+
+    .woman{
+   margin-left: 440px;
+    }
+    .shoe1{
+        margin-left: 300px;
+        margin-top: 250px;
+    }
+    .btn9{
+        margin-left: 450px;
+        color: white;
+        background-color: palevioletred;
+    }
+    .shop{
+        margin-left: 400px;
+        margin-top: 350px;
+        
+    }
+    .footer{
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        background-color:purple;
+
+    }
+    .btn10{
+        color:black;
+        background-color: gray;
+        width: 170px;
+        height: 50px;
+    }
+    .btn11{
+        color: white;
+        background-color: palevioletred;
+        width: 170px;
+        height: 50px; 
+    }
+
+    @media(max-width:800px){
+        @media(max-width:800px){
+            .navbar {margin-left:100px ;}
+               
+           }
+       .img2{
+           display: block;
+       }
+       .img1{
+           margin-top:700px;
+       }
+       
+        
+    }
